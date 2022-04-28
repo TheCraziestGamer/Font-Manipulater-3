@@ -1,0 +1,33 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+    }
+    
+    .note{
+    font-size:15px;
+    color:black;
+    }
+    
+    .copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    line-height:3;
+    text-align:center;
+    }
+    
+    canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    }
+
+    body{
+        background:"https://th.bing.com/th/id/OIP.QnxlSE8WE6Br2mHeJgNuaAHaHs?pid=ImgDet&w=1300&h=1352&rs=1";
+
+
+    }
